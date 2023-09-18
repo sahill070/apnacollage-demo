@@ -1,4 +1,4 @@
 # apnacollage-demo
 this is my first repository
 <br>
-author-sahil kapoor
+author-sahil (apna collage)
